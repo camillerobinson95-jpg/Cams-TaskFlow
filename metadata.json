@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of TaskFlow - AI Todo List",
+  "description": "A modern todo list application that allows users to manage tasks with titles, descriptions, due dates, priorities, and statuses. It features filtering, a clean editor, and AI-powered image editing for task attachments using Gemini.",
+  "requestFramePermissions": []
+}
